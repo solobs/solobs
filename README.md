@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm currently learning Python coding 🐍
+### I am attempting to attend 2 institutions simultaneously. SNHU to earn my Cybersecurity degree and AWS Cloud Institute to be a Cloud Developer
 <!--
 **solobs/solobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
